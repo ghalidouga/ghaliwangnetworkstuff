@@ -1,0 +1,6 @@
+name: GhaliwangNetWorrkStuff
+version: 1.0-SNAPSHOT
+main: ghaliwang.ghaliwangnetworrkstuff.GhaliwangNetWorrkStuff
+api-version: 1.13
+authors: [ghaliwang]
+description: Essential for Ghali Wang Network

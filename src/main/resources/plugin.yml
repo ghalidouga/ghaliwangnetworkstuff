@@ -1,0 +1,6 @@
+name: GhaliwangNetWorrkStuff
+version: ${project.version}
+main: ghaliwang.ghaliwangnetworrkstuff.GhaliwangNetWorrkStuff
+api-version: 1.13
+authors: [ghaliwang]
+description: Essential for Ghali Wang Network
